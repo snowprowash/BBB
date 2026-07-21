@@ -1,0 +1,28 @@
+{
+"format": "CHIP-0007",
+"minting_tool": "mintgarden-studio",
+"sensitive_content": false,
+"name": "BBB #841",
+"description": "Boobs & Bubble Butt Collection (NSFW 18+).",
+
+"attributes": [],
+
+"collection": {
+"id": "8ad45b2f-a56e-4f6c-9df5-1c7c50a812dd",
+"name": "BBB",
+"attributes": [
+{
+"type": "description",
+"value": "Boobs & Bubble Butt Collection (NSFW 18+)."
+},
+{
+"type": "icon",
+"value": "https://ipfs.mintgarden.io/ipfs/bafybeighouz6ocr7rz2np4si5epnwp66cnxuflxheoqije6ylrcv2ukpxm/Profil.gif"
+},
+{
+"type": "banner",
+"value": "https://ipfs.mintgarden.io/ipfs/bafybeianrwyyy3kpe2ibmz6xf6id74xt4kacf3p7yd7jni3j3fmc2cbn3m/banner.png"
+}
+]
+}
+}
